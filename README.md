@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on my empty repos.
 - 💞️ I have no idea, what i am going to work on today or tommorrow. It depends on my mood.
 - 📫 How to reach me: hello [at] aatizghimire.com.np , www.linkedin.com/in/aatizghimire/
-- 😄 Pronouns: 'Virus', 'Scientist / Sin 30 ', 'Rhino', 'Hatti'
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: 'Jacks of All, Master of None.'
 
 
