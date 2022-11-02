@@ -25,7 +25,8 @@
 ## 🧰 Languages, Technologies and Tools:
 <p align="center">
 
-<table style="table-layout: fixed">
+<table style="max-width: 100% !important;
+    width: 100% !important;">
 <tr>
 <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="55" style="vertical-align:top; margin:4px">
