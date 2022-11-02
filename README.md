@@ -67,7 +67,6 @@
  <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" height="55" style="vertical-align:top; margin:4px">
 </th>
- <th>
  </tr> 
  <tr>
  <th> 
@@ -87,9 +86,8 @@ height="55" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg" alt="LaTex Typesetting" height="55" style="vertical-align:top; margin:4px">
 </th>
  <th>
-<img src="hhttps://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" alt="Linux" height="55" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" alt="Linux" height="55" style="vertical-align:top; margin:4px">
 </th>
- <th>
  </tr>
  <tr>
  <th>
@@ -131,7 +129,8 @@ height="55" style="vertical-align:top; margin:4px">
  <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg"  alt="VS Code IDE" height="55" style="vertical-align:top; margin:4px">
 </th>
- </tr>
+</tr>
+
 </table>
 </p>
 <br>
