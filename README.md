@@ -45,22 +45,30 @@
 </th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" alt="canva.com" height="55" style="vertical-align:top; margin:4px">
 </th>
-<th>
 </tr>
+
 <tr>
+<th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C-Plus-Plus" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" alt="Django" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" alt="Docker" height="55" style="vertical-align:top; margin:4px">
-
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/digitalocean/digitalocean-original-wordmark.svg" alt="Digital Ocean Hosting" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
+ </tr> 
+  
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" 
 height="55" style="vertical-align:top; margin:4px">
 
