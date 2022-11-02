@@ -1,12 +1,11 @@
 <h2 align="left">Hi 👋, I'm Aatiz Ghimiré!</h2>
-<br>
 <hr>
 <p>
-- 👀 I’m interested in AI with Computational Machines.
-- 🌱 I’m current learning Deep learning with Computer Vision.
-- 👯 I’m looking to collaborate on my empty repos.
-- 💞️ I have no idea, what i am going to work on today or tommorrow. It depends on my mood.
-- 😄 Pronouns: He/Him
+- 👀 I’m interested in AI with Computational Machines.<br>
+- 🌱 I’m current learning Deep learning with Computer Vision.<br>
+- 👯 I’m looking to collaborate on my empty repos.<br>
+- 💞️ I have no idea, what i am going to work on today or tommorrow. It depends on my mood. <br>
+- 😄 Pronouns: He/Him <br>
 - ⚡ Fun fact: 'I am Generalist, Think-Tank, Scholar, Engineer, Coder, and Builder.'
 </p>
 <hr>
@@ -26,8 +25,7 @@
 ## 🧰 Languages, Technologies and Tools:
 <p align="center">
 
-<table style="max-width: 100% !important;
-    width: 100% !important;">
+<table style="width: 100% !important;">
 <tr>
 <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="55" style="vertical-align:top; margin:4px">
