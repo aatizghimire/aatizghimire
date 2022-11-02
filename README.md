@@ -14,7 +14,7 @@
 
 <p align="center">
  <a href="https://www.facebook.com/aatizghimire.com.np" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-original.svg" alt="Facebook" height="50" style="vertical-align:top; margin:4px"> </a>
- <a href="mailto:hello@aatizghimire.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="50" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:hello@aatizghimire.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="Mail" height="50" style="vertical-align:top; margin:4px"></a>
  <a href="https://linkedin.com/in/aatizghimire" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="50" style="vertical-align:top; margin:4px"></a>
  
 
@@ -25,7 +25,7 @@
 ## 🧰 Languages, Technologies and Tools:
 <p align="center">
 
-<table style="width: 100%">
+<table style="table-layout: fixed">
 <tr>
 <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="55" style="vertical-align:top; margin:4px">
