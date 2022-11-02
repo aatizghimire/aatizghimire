@@ -13,9 +13,9 @@
 
 
 <p align="center">
- <a href="https://www.facebook.com/aatizghimire.com.np" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/60286504/138819262-e07f8cb5-7033-4fd6-8e26-f193d98945f0.png" alt="Facebook" height="50" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.facebook.com/aatizghimire.com.np" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/facebook/facebook-original.svg" alt="Facebook" height="50" style="vertical-align:top; margin:4px"> </a>
  <a href="mailto:hello@aatizghimire.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Mail" height="50" style="vertical-align:top; margin:4px"></a>
- <a href="https://linkedin.com/in/aatizghimire" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/60286504/138819608-5ca3201d-1b8c-4168-898b-d5309fc57bd4.png" alt="Linkedin" height="50" style="vertical-align:top; margin:4px"></a>
+ <a href="https://linkedin.com/in/aatizghimire" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="50" style="vertical-align:top; margin:4px"></a>
  
 
 </p>
@@ -25,7 +25,7 @@
 ## 🧰 Languages, Technologies and Tools:
 <p align="center">
 
-<table>
+<table style="width: 100%">
 <tr>
 <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="55" style="vertical-align:top; margin:4px">
@@ -41,8 +41,9 @@
 </th>
 <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-plain.svg" alt="C Programming" height="55" style="vertical-align:top; margin:4px">
-<th>
 </th>
+
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" alt="canva.com" height="55" style="vertical-align:top; margin:4px">
 </th>
 </tr>
@@ -68,46 +69,69 @@
 </th>
  <th>
  </tr> 
-  
+ <tr>
+ <th> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" 
 height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="Github" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" alt="Go Programming" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebooks" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg" alt="LaTex Typesetting" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="hhttps://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" alt="Linux" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
+ </tr>
+ <tr>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" height="55" style="vertical-align:top; margin:4px">
-
-
+</th>
+<th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSql" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python Programming" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="Raspberrypi as SBC" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ </tr>
+ <tr>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/scala/scala-original-wordmark.svg" alt="Scala Programming" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg" alt="Sqlite" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ssh/ssh-original-wordmark.svg" alt="SSH" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu as Laptop OS" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg"  alt="VS Code IDE" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+ </tr>
 </table>
 </p>
 <br>
