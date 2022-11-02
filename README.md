@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Aatiz Ghimiré!</h2>
 <hr>
 <p>
-- 👀 I’m interested in AI with Computational Machines.<br>
+- 👀 I’m interested in AI with Computational Mathematics and Machines.<br>
 - 🌱 I’m current learning Deep learning with Computer Vision.<br>
 - 👯 I’m looking to collaborate on my empty repos.<br>
 - 💞️ I have no idea, what i am going to work on today or tommorrow. It depends on my mood. <br>
