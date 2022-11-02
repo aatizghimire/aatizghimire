@@ -1,13 +1,13 @@
-<h2 align="left">Hi 👋, I'm Aatiz Ghimire!</h2>
+<h2 align="left">Hi 👋, I'm Aatiz Ghimiré!</h2>
 <br>
-
-- 👀 I’m interested in AI.
-- 🌱 I’m current learning anything i get.
+<h3 align="left> I am currently working as Freelancer, and learning day by day ! </h3>
+<hr>
+- 👀 I’m interested in AI with Computational Machines.
+- 🌱 I’m current learning Deep learning with Computer Vision.
 - 👯 I’m looking to collaborate on my empty repos.
 - 💞️ I have no idea, what i am going to work on today or tommorrow. It depends on my mood.
-- 📫 How to reach me: hello [at] aatizghimire.com.np , www.linkedin.com/in/aatizghimire/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 'Jacks of All, Master of None.'
+- ⚡ Fun fact: 'I am Generalist, Think-Tank, Scholar, Engineer, Coder, and Builder.'
 
 
  ##  ✉️ Find me on:
@@ -23,21 +23,74 @@
 
 <br />
 
-## 🧰 Languages and Tools:
+## 🧰 Languages, Technologies and Tools:
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="55" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="55" style="vertical-align:top; margin:4px">
  
 
-<img src="https://user-images.githubusercontent.com/60286504/138820181-5be61be3-50fc-4360-a6d7-10fb783c3e43.png" alt="Git" height="55" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original.svg" alt="anaconda" height="55" style="vertical-align:top; margin:4px">
 
-<img src="https://user-images.githubusercontent.com/60286504/138823727-64d50656-4589-489a-9450-2949fad564c3.png" alt="Github" height="55" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" alt="Arduino" height="55" style="vertical-align:top; margin:4px">
  
-<img src="https://user-images.githubusercontent.com/60286504/138820665-401baafb-1fd6-4550-8f11-b4fbda5e1c9c.png" alt="Open cv" height="55" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-plain.svg" alt="Bash" height="55" style="vertical-align:top; margin:4px">
 
-<img src="https://user-images.githubusercontent.com/60286504/138824269-5c61b376-93a3-47cc-9e01-ff0eca61b592.png" alt="Numpy" height="55" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-plain.svg" alt="C Programming" height="55" style="vertical-align:top; margin:4px">
 
-<img src="https://user-images.githubusercontent.com/60286504/138820970-cb7625dc-eae5-4af4-a238-3afae65e1756.png" alt="Arduino" height="55" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" alt="canva.com" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C-Plus-Plus" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" alt="Django" height="55" style="vertical-align:top; margin:4px">
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" alt="Docker" height="55" style="vertical-align:top; margin:4px">
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/digitalocean/digitalocean-original-wordmark.svg" alt="Digital Ocean Hosting" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" alt="Figma" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" 
+height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="Github" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" alt="Go Programming" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebooks" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg" alt="LaTex Typesetting" height="55" style="vertical-align:top; margin:4px">
+
+<img src="hhttps://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" alt="Linux" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" height="55" style="vertical-align:top; margin:4px">
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSql" height="55" style="vertical-align:top; margin:4px">
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python Programming" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original-wordmark.svg" alt="PyTorch" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original-wordmark.svg" alt="Raspberrypi as SBC" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/scala/scala-original-wordmark.svg" alt="Scala Programming" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original-wordmark.svg" alt="Sqlite" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ssh/ssh-original-wordmark.svg" alt="SSH" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu as Laptop OS" height="55" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg"  alt="VS Code IDE"height="55" style="vertical-align:top; margin:4px">
 
 </p>
 <br><hr>
