@@ -1,14 +1,15 @@
 <h2 align="left">Hi 👋, I'm Aatiz Ghimiré!</h2>
 <br>
 <hr>
+<p>
 - 👀 I’m interested in AI with Computational Machines.
 - 🌱 I’m current learning Deep learning with Computer Vision.
 - 👯 I’m looking to collaborate on my empty repos.
 - 💞️ I have no idea, what i am going to work on today or tommorrow. It depends on my mood.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 'I am Generalist, Think-Tank, Scholar, Engineer, Coder, and Builder.'
-
-
+</p>
+<hr>
  ##  ✉️ Find me on:
 
 
