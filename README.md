@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋, I'm Aatiz Ghimiré!</h2>
 <br>
-<h3 align="left> I am currently working as Freelancer, and learning day by day ! </h3>
 <hr>
 - 👀 I’m interested in AI with Computational Machines.
 - 🌱 I’m current learning Deep learning with Computer Vision.
@@ -26,23 +25,32 @@
 ## 🧰 Languages, Technologies and Tools:
 <p align="center">
 
+<table>
+<tr>
+<th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="55" style="vertical-align:top; margin:4px">
- 
-
+</th> 
+<th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original.svg" alt="anaconda" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+<th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" alt="Arduino" height="55" style="vertical-align:top; margin:4px">
- 
+ </th>
+ <th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-plain.svg" alt="Bash" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+<th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-plain.svg" alt="C Programming" height="55" style="vertical-align:top; margin:4px">
-
+<th>
+</th>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/canva/canva-original.svg" alt="canva.com" height="55" style="vertical-align:top; margin:4px">
-
+</th>
+<th>
+</tr>
+<tr>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="C-Plus-Plus" height="55" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" alt="Django" height="55" style="vertical-align:top; margin:4px">
-
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg" alt="Docker" height="55" style="vertical-align:top; margin:4px">
 
@@ -90,10 +98,12 @@ height="55" style="vertical-align:top; margin:4px">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu as Laptop OS" height="55" style="vertical-align:top; margin:4px">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg"  alt="VS Code IDE"height="55" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg"  alt="VS Code IDE" height="55" style="vertical-align:top; margin:4px">
 
+</table>
 </p>
-<br><hr>
+<br>
+<hr>
 
 
 
